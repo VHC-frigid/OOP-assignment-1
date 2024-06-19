@@ -22,7 +22,8 @@
 
 5. Merge conflicts can occur while using git. List merge tools or diff tools you can use to help you merge and deal with conflicts.
 - With tools to help with merge conflicts you can use software like git that marks conflictinng areas and you have websites like github that havebuilt-in merge conflict resolution tools.
-
+- you can use sublime merge gives you to tools to breeze through code reviews: Side by Side Diffs, Syntax Highlighting, Character Diffs. You can drag the top or bottom of a hunk to interactively show more context lines. Search Instant search over your whole repository, as you type.
+- there's also diffuse which is a graphical tool for merging and comparing text files. Diffuse is able to compare an arbitrary number of files side-by-side and gives users the ability to manually adjust line matching and directly edit files.
 6. In a merged source code file, how does Git let you know there is a conflict?
 - git lets you know by giving you these marker's that and 2 versions of the code looking something like this:
    <<<<<<< HEAD
